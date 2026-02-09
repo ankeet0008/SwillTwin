@@ -14,7 +14,7 @@ import { BackButton } from "@/components/ui/back-button"
 const teamMembers = [
     {
         name: "Mr. Ayush Kumar Jena",
-        role: "Team Lead",
+        role: "Team Lead And Full Stack Developer",
         image: "/team/team-member-1.jpg", // Placeholder for user to add image later
         bio: "Vision-driven leader responsible for strategic planning, team coordination, and ensuring timely delivery of high-impact solutions.",
         socials: {
