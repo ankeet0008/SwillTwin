@@ -35,7 +35,7 @@ Built with ❤️ by **Team Liquid**.
 
 ---
 
-## 🧠 Core Feature
+## 🧠 Core Features
 
 ### 🔍 AI Skill Gap Analysis  
 Upload your resume (PDF) or manually enter skills. SkillTwin extracts, normalizes, and compares them against **real industry requirements** for your target role.
