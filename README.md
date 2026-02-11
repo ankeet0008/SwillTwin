@@ -1,4 +1,4 @@
-# 🔥 SkillTwin — AI-Powered Career Navigato
+# 🔥 SkillTwin — AI-Powered Career Navigator
 ### *Turning Degrees into Job-Ready Skills*
 
 **SkillTwin** is an AI-first career intelligence platform that bridges the brutal gap between **what students learn** and **what companies actually hire for**.
