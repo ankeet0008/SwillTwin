@@ -11,6 +11,7 @@ It builds a **digital Skill Twin** of a user by analyzing resumes, GitHub activi
 Built with ❤️ by **Team Liquid**.
 
 ---
+
 ## 🚨 The Problem
 
 - Graduates leave college with **degrees, not employable skills**
