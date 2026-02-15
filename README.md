@@ -63,6 +63,7 @@ Built with **Supabase Realtime**, users can post reviews that appear instantly o
 ---
 
 ### 💼 Live Job Matching  
+
 Fetches relevant job listings via **RapidAPI**, dynamically aligned with a user’s **current and upcoming skills**.
 
 ---
