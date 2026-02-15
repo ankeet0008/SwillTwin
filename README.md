@@ -47,7 +47,8 @@ Powered by **Groq (Llama-3 70B)**, SkillTwin generates **8–12 week actionable 
 
 ---
 
-### 🐙 GitHub Profile Intelligence  
+### 🐙 GitHub Profile Intelligence
+
 SkillTwin goes beyond resumes:
 - Repository analysis  
 - Commit history  
